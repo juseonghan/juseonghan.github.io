@@ -12,6 +12,6 @@ I am currently a PhD student in Computer Science at Vanderbilt University, advis
 
 Education
 ======
-- Ph.D. (Expected 2028), Computer Science. Vanderbilt University, Nashville, TN. 
+- Ph.D. (Expected 2028), Computer Science. Vanderbilt University. 
 - Master of Science in Engineering (2023), Robotics. Johns Hopkins University.
 - Bachelor of Science (2022), Electrical Engineering. Johns Hopkins University. 
