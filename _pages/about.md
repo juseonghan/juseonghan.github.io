@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Computer Science at Vanderbilt University, advised by Dr. Jie Ying Wu at MAPLE Labs, where we develop algorithms to advance systems, environments, and their interactions in the realm of robot-assisted surgeries. My research interests are at the intersection of computer vision and medical robotics, specifically how we can enhance machine perception and computational guidance to aid robotic surgeons. In addition, I am interested in developing computer assisted interventions using medical imaging and deep learning. 
+I am currently a PhD student in Computer Science at Vanderbilt University, advised by Dr. Jie Ying Wu at MAPLE Labs, where we develop algorithms to advance systems, environments, and their interactions in the realm of robot-assisted surgeries. My research interests are at the intersection of computer vision and medical robotics, specifically how we can enhance machine perception and computational guidance to aid robotic surgeons. In addition, I am interested in developing computer assisted interventions using medical imaging and deep learning. My hobbies include playing musical instruments, golfing, and traveling. 
 
 Education
 ======
