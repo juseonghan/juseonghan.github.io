@@ -13,9 +13,9 @@ For collaboration, party invites, or any other inquiries, please contact me at j
 
 Education
 ======
-- Ph.D. (Expected 2028), Computer Science. Vanderbilt University. 
-- Master of Science in Engineering (2023), Robotics. Johns Hopkins University.
-- Bachelor of Science (2022), Electrical Engineering. Johns Hopkins University. 
+- PhD Computer Science, Vanderbilt University (Expected 2028). 
+- MSE Robotics, Johns Hopkins University (2023).
+- BS Electrical Engineering, Johns Hopkins University (2022). 
 
 Work Experience 
 ======
