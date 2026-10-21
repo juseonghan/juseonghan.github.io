@@ -14,6 +14,7 @@ My research is in computer vision and robot learning for surgical robotics, focu
 Ultimately, my goal is to build embodied surgical AI systems that reduce surgeon workload and broaden access to high-quality care, especially in low-resource communities. My work has been supported by an [NIH T32 training fellowship](https://www.vanderbilt.edu/vise/nih-nibib-t32eb021937/).
 
 For collaboration, party invites, or any other inquiries, please contact me at john.j.han@vanderbilt.edu. I would love to get to know you and your work. Soli Deo Gloria!
+
 Education
 ======
 - PhD Computer Science, Vanderbilt University (Expected May 2027). 
